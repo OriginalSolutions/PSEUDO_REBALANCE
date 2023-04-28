@@ -17,3 +17,5 @@ The value curve of a portfolio using the "oscillate around the level of the cont
 
 In other words:
 You can use these deviations to build a signaler that generates buy or sell signals for a static portfolio - not using "pseudo-balancing"
+
+Project tested only on the "gate" exchange.
