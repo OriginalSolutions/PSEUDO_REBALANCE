@@ -1,4 +1,5 @@
-# BACKTESTING_PSEUDO_REBALANCE
+# PSEUDO_REBALANCE
+# BACKTESTING
 
 The project is a development of: the author's idea based on the mechanism of "negative price correlation".
 
